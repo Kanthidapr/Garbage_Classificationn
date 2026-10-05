@@ -1,0 +1,1 @@
+นำ trash_class_cnn_mvp.keras จากโปรเจกต์เดิมมาใส่ในโฟลเดอร์ model นี้
